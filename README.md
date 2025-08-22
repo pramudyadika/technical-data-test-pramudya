@@ -1,7 +1,6 @@
 # technical-data-test-pramudya
 
-# User Behavior Analysis Project
-
+## User Behavior Analysis Project
 ## Overview
 This project analyzes user behavior based on public datasets, focusing on demographics, spending habits, and merchant preferences. The analysis is done using SQL queries and visualized in a Looker Studio dashboard.
 
